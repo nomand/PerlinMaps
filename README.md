@@ -1,5 +1,8 @@
 # PerlinMaps
-A collection of 16bit Perlin noise animated tilable textures.
+A collection of Perlin noise animated seamless tilable textures, 3 octave variants with 3 zoom levels each.
+
+All maps are 16bit 512px png.
+Loops are 20 frames long with 0.05 noise disorder increments.
 
 ## 1 Octave
 
@@ -11,4 +14,4 @@ A collection of 16bit Perlin noise animated tilable textures.
 
 ## 3 Octaves
 
-![XBL](Previews/Perlin3_4.gif) ![XBL](Previews/Perlin3_8.gif) ![XBL](Previews/Perlin3_16.gif) 
+![XBL](Previews/Perlin3_4.gif) ![XBL](Previews/Perlin3_8.gif) ![XBL](Previews/Perlin3_16.gif)
